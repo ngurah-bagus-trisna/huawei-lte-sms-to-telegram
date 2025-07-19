@@ -4,7 +4,13 @@ Huawei SMS to Telegram Bot
 
 This bot connects to a Huawei LTE router, forwards incoming SMS messages to a Telegram chat, and allows you to send SMS from Telegram.
 
+Thanks to @Salamaek to create API for Huawei LAN/WAN Modems, you can visit repository below
+
+- https://github.com/Salamek/huawei-lte-api
+
 ⸻
+
+> Testing on huawei e8372
 
 Prerequisites
 	•	Python 3.11+ installed on your system
