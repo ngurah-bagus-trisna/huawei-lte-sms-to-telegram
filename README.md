@@ -18,15 +18,16 @@ Prerequisites
 	•	A Huawei LTE router with SMS API enabled (e.g., most Huawei MiFi or LTE routers)
 	•	A Telegram Bot token and a chat ID where the bot will post and accept commands
 
-Setup
-	1.	Clone this repository
+## Setup
+
+1.	Clone this repository
 
 ```
 git clone https://github.com/yourusername/huawei-sms-bot.git
 cd huawei-sms-bot
 ```
 
-	2.	Copy and edit the .env file
+2.	Copy and edit the .env file
 
 ```
 cp .env.example .env
